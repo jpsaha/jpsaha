@@ -1,4 +1,4 @@
-###### Hi, I'm Jyoti Prakash Saha!
+# Hi, I'm Jyoti Prakash Saha!
 
 * I am an Assistant Professor at the [Department of Mathematics](https://maths.iiserb.ac.in/), [IISER Bhopal](https://www.iiserb.ac.in/).
 * I am interested in Number Theory and Graph Theory.
