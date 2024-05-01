@@ -12,7 +12,6 @@
  
 ### Relevant Information
 
-Let g be 
 
 
 <!--
