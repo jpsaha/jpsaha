@@ -5,7 +5,8 @@
 
 ## [Mathematics Olympiad Problem Solving Sessions](https://jpsaha.github.io/MOTP/MOPSS/) (MOPSS)
 
-* A Mathematics Training program  for Individual Study will be organized at IISER Bhopal.
+Mathematics Olympiad Problem Solving Sessions will be organized at IISER Bhopal.
+
   * The aim is to develop an interest for mathematics among the students, through encouraging them to work on problems, falling broadly within the scope of Mathematical Olympiad.
   * The first session will take place in August, 2024.
   * For more information, you may visit [this page](https://jpsaha.github.io/MOTP/MOPSS/).
