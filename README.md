@@ -2,6 +2,7 @@
 
 * I am an Assistant Professor at the [Department of Mathematics](https://maths.iiserb.ac.in/), [IISER Bhopal](https://www.iiserb.ac.in/).
 * I am interested in Number Theory and Graph Theory.
+* I am the Regional Coordinator of the Mathematics Olympiad program for the Madhya Pradesh region. Please feel free to get in touch if you require any information regarding this program. 
 
 ## [Mathematics Olympiad Problem Solving Sessions](https://jpsaha.github.io/MOTP/MOPSS/) (MOPSS)
 
