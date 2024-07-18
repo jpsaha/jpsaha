@@ -13,8 +13,7 @@ Mathematics Olympiad Problem Solving Sessions will be organized at IISER Bhopal.
   * For more information, you may visit [this page](https://jpsaha.github.io/MOTP/MOPSS/).
   * Please feel free to get in touch!
  
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I+am+Jyoti+Prakash+Saha;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <!--
 **jpsaha/jpsaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
