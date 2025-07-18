@@ -23,7 +23,7 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 | **22nd November, 2025** |            |
 
 
-## Lecture notes for Mathematics Olympiad (IOQM, RMO, INMO). 
+## Lecture notes for Mathematics Olympiad (IOQM, RMO, INMO) --- Algebra, Combinatorics, Geometry, Number Theory
 
 ### Click on the links below to download.
 
