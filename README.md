@@ -34,7 +34,7 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 | Geometry | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/Geometry/) |
 | Number Theory | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/NumberTheory/) |
 | INMO Training Camp 2025, Madhya Pradesh | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/INMOTC/) |
-| IMO Traininc Camp 2025 | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/IMOTC/) |
+| IMO Training Camp 2025 | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/IMOTC/) |
 | MOPSS | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/MOPSS/) |
 
 
