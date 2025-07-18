@@ -27,6 +27,13 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 >
 |      Topics       |        Links     |
 | :------------: | :------------: |
+| Algebra | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/Algebra/) |
+| Combinatorics | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/Combinatorics/) |
+| Geometry | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/Geometry/) |
+| Number Theory | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/NumberTheory/) |
+| INMO Training Camp 2025, Madhya Pradesh | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/INMOTC/) |
+| IMO Traininc Camp 2025 | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/IMOTC/) |
+| MOPSS | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/MOPSS/) |
 | [Algebra]({{ site.url }}{{ site.baseurl }}/Algebra/) | <a href="{{ 'Algebra/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i<i class="fa-solid fa-download fa-2x"></i></a|
 | [Combinatorics]({{ site.url }}{{ site.baseurl }}/Combinatorics/) | <a href="{{ 'Combinatorics/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i<i class="fa-solid fa-download fa-2x"></i></a|
 | [Geometry]({{ site.url }}{{ site.baseurl }}/Geometry/) | <a href="{{ 'Geometry/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i<i class="fa-solid fa-download fa-2x"></i></a|
