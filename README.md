@@ -11,8 +11,8 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
   * The aim is to develop an interest for mathematics among the students, through encouraging them to work on problems, falling broadly within the scope of Mathematical Olympiad.
 
 
-> |     Schedule  (<i class="fa-solid fa-clock"></i> **9:00am to 12:00pm**)   |      Notes     |         |
-> | :------------: | :------------: | :------------:  |
+> |     Schedule  (<i class="fa-solid fa-clock"></i> **9:00am to 12:00pm**)   |      Notes     |
+> | :------------: | :------------: |
 > | **5th July, 2025** | <a href="{{ '.pdf' | prepend: 'MOPSS25July05' | prepend: 'MOPSS/' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">pdf link</a> |
 > | **19th July, 2025** |            |     
 > | **9th August, 2025** |            |    
