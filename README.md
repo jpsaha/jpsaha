@@ -23,8 +23,8 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 | **22nd November, 2025** |            |
 
 
-**Click on the <span style="color: #42b983"><i class="fa-solid fa-file-pdf fa-2x"></i></spanicons below to download.**
->
+## Click on the <span style="color: #42b983"><i class="fa-solid fa-file-pdf fa-2x"></i></spanicons below to download.**
+
 |      Topics       |        Links     |
 | :------------: | :------------: |
 | Algebra | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/Algebra/) |
@@ -34,14 +34,7 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 | INMO Training Camp 2025, Madhya Pradesh | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/INMOTC/) |
 | IMO Traininc Camp 2025 | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/IMOTC/) |
 | MOPSS | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/MOPSS/) |
-| [Algebra]({{ site.url }}{{ site.baseurl }}/Algebra/) | <a href="{{ 'Algebra/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i<i class="fa-solid fa-download fa-2x"></i></a|
-| [Combinatorics]({{ site.url }}{{ site.baseurl }}/Combinatorics/) | <a href="{{ 'Combinatorics/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i<i class="fa-solid fa-download fa-2x"></i></a|
-| [Geometry]({{ site.url }}{{ site.baseurl }}/Geometry/) | <a href="{{ 'Geometry/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i<i class="fa-solid fa-download fa-2x"></i></a|
-| [Number Theory]({{ site.url }}{{ site.baseurl }}/NumberTheory/) | <a href="{{ 'NumberTheory/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i<i class="fa-solid fa-download fa-2x"></i></a|
-| [INMO Training Camp 2025, MP]({{ site.url }}{{ site.baseurl }}/INMOTC/) | <a href="{{ 'INMOTC/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i<i class="fa-solid fa-download fa-2x"></i></a|
-| [IMO Training Camp]({{ site.url }}{{ site.baseurl }}/IMOTC/) | <a href="{{ 'IMOTC/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i<i class="fa-solid fa-download fa-2x"></i></a|
-| [MOPSS]({{ site.url }}{{ site.baseurl }}/MOPSS/) | <a href="{{ 'MOPSS/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i> <i class="fa-solid fa-download fa-2x"></i></a> |
-{: .block-tip }
+
 
 
   * For more information, you may visit [this page](https://jpsaha.github.io/MOTP/MOPSS/).
