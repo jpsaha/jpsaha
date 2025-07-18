@@ -13,14 +13,14 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 
 > |     Schedule  (<i class="fa-solid fa-clock"></i> **9:00am to 12:00pm**)   |      Notes     |         |
 > | :------------: | :------------: | :------------:  |
-> | **5th July, 2025** | <a href="{{ '.pdf' | prepend: 'MOPSS25July05' | prepend: 'MOPSS/' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i></a> |    [<i class="fa-solid fa-globe fa-2x"></i>]({{ site.url }}{{ site.baseurl }}/blog/2025/MOPSS25July5/)     |
-> | **19th July, 2025** |            |         |
-> | **9th August, 2025** |            |        |
-> | **23rd August, 2025** |            |          |
-> | **27th September, 2025** |            |            |
-> | **11th October, 2025** |            |             |
-> | **25th October, 2025** |            |          |
-> | **22nd November, 2025** |            |         |
+> | **5th July, 2025** | <a href="{{ '.pdf' | prepend: 'MOPSS25July05' | prepend: 'MOPSS/' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">pdf link</a> |
+> | **19th July, 2025** |            |     
+> | **9th August, 2025** |            |    
+> | **23rd August, 2025** |            |   
+> | **27th September, 2025** |            |
+> | **11th October, 2025** |            | 
+> | **25th October, 2025** |            | 
+> | **22nd November, 2025** |            |
 >
 > 
 >   <i class="fas fa-calendar-alt" style="color:gray"></i> **[5th](../assets/pdf/MOPSS/MOPSS25July05.pdf), 19th July**, 2025.
