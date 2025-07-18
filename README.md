@@ -10,7 +10,20 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 
   * The aim is to develop an interest for mathematics among the students, through encouraging them to work on problems, falling broadly within the scope of Mathematical Olympiad.
   * The first session will take place in August, 2024.
-  * 
+
+
+> |     Schedule  (<i class="fa-solid fa-clock"></i> **9:00am to 12:00pm**)   |      Notes     |         |
+> | :------------: | :------------: | :------------:  |
+> | **5th July, 2025** | <a href="{{ '.pdf' | prepend: 'MOPSS25July05' | prepend: 'MOPSS/' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf fa-2x"></i></a> |    [<i class="fa-solid fa-globe fa-2x"></i>]({{ site.url }}{{ site.baseurl }}/blog/2025/MOPSS25July5/)     |
+> | <i class="fas fa-calendar-alt" style="color:gray"></i> **19th July, 2025** |            |         |
+> | <i class="fas fa-calendar-alt" style="color:gray"></i> **9th August, 2025** |            |        |
+> | <i class="fas fa-calendar-alt" style="color:gray"></i> **23rd August, 2025** |            |          |
+> | <i class="fas fa-calendar-alt" style="color:gray"></i> **27th September, 2025** |            |            |
+> | <i class="fas fa-calendar-alt" style="color:gray"></i> **11th October, 2025** |            |             |
+> | <i class="fas fa-calendar-alt" style="color:gray"></i> **25th October, 2025** |            |          |
+> | <i class="fas fa-calendar-alt" style="color:gray"></i> **22nd November, 2025** |            |         |
+>
+> 
 >   <i class="fas fa-calendar-alt" style="color:gray"></i> **[5th](../assets/pdf/MOPSS/MOPSS25July05.pdf), 19th July**, 2025.
 > 
 >   <i class="fas fa-calendar-alt" style="color:gray"></i> **9th, 23rd August**, 2025.
