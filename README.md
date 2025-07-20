@@ -13,8 +13,8 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 
 |     Schedule  (**9:00am to 12:00pm**)   |      Notes     |
 | :------------: | :------------: |
-| **5th July, 2025** | [pdf link](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25July05.pdf) |
-| **19th July, 2025** |   [pdf link](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25July19.pdf) |
+| **5th July, 2025** | [Click here for Problem set in pdf](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25July05.pdf) |
+| **19th July, 2025** |   [Click here for Problem set in pdf](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25July19.pdf) |
 | **9th August, 2025** |            |    
 | **23rd August, 2025** |            |   
 | **27th September, 2025** |            |
@@ -29,13 +29,13 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 
 |      Topics       |        Links     |
 | :------------: | :------------: |
-| Algebra | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/Algebra/) |
-| Combinatorics | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/Combinatorics/) |
-| Geometry | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/Geometry/) |
-| Number Theory | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/NumberTheory/) |
-| INMO Training Camp 2025, Madhya Pradesh | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/INMOTC/) |
-| IMO Training Camp 2025 | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/IMOTC/) |
-| MOPSS | [Lecture notes in pdf](https://jpsaha.github.io/MOTP/MOPSS/) |
+| Algebra | [Click here for Lecture notes in pdf](https://jpsaha.github.io/MOTP/Algebra/) |
+| Combinatorics | [Click here for Lecture notes in pdf](https://jpsaha.github.io/MOTP/Combinatorics/) |
+| Geometry | [Click here for Lecture notes in pdf](https://jpsaha.github.io/MOTP/Geometry/) |
+| Number Theory | [Click here for Lecture notes in pdf](https://jpsaha.github.io/MOTP/NumberTheory/) |
+| INMO Training Camp 2025, Madhya Pradesh | [Click here for Lecture notes in pdf](https://jpsaha.github.io/MOTP/INMOTC/) |
+| IMO Training Camp 2025 | [Click here for Lecture notes in pdf](https://jpsaha.github.io/MOTP/IMOTC/) |
+| MOPSS | [Click here for Lecture notes in pdf](https://jpsaha.github.io/MOTP/MOPSS/) |
 
 
 
