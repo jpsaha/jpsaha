@@ -14,7 +14,7 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 |     Schedule  (**9:00am to 12:00pm**)   |      Notes     |
 | :------------: | :------------: |
 | **5th July, 2025** | [pdf link](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25July05.pdf) |
-| **19th July, 2025** |            |     
+| **19th July, 2025** |   [pdf link](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25July19.pdf) |
 | **9th August, 2025** |            |    
 | **23rd August, 2025** |            |   
 | **27th September, 2025** |            |
