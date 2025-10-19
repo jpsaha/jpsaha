@@ -17,8 +17,9 @@ Mathematics Olympiad Problem Solving Sessions is being held at IISER Bhopal.
 | **19th July, 2025** |   [Click here for Problem set in pdf](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25July19.pdf) |
 | **9th August, 2025** |   [Click here for Problem set in pdf](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25Aug09.pdf) |
 | **23rd August, 2025** | [Click here for Problem set in pdf](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25Aug23.pdf) |
-| **27th September, 2025** |            |
-| **11th October, 2025** |            | 
+| **27th September, 2025** | [Click here for Problem set in pdf](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25Sep27.pdf) |
+| **11th October, 2025** | [Click here for Problem set in pdf](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25Oct11.pdf) |
+| **18th October, 2025** | [Click here for Problem set in pdf](https://jpsaha.github.io/MOTP/assets/pdf/MOPSS/MOPSS25Oct18.pdf) |
 | **25th October, 2025** |            | 
 | **22nd November, 2025** |            |
 
